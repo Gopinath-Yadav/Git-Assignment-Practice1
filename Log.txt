@@ -1,1 +1,2 @@
 This is Second Feature for Merge
+Changed from Git Console, to check the pull Command
